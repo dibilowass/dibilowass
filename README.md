@@ -6,7 +6,7 @@
 ![Badge](https://img.shields.io/badge/Chainsaw-Loaded-red?style=flat-square&logo=doom)
 ![Badge](https://img.shields.io/badge/Glory_Kills-∞-critical?style=flat-square)
 ![Badge](https://img.shields.io/badge/Code_Mode-Slayer-darkred?style=flat-square)
-<img src="https://dixiegamereviews.files.wordpress.com/2016/05/image-6ed4cc65e8fbc1d1700d78a1b8ce80de.jpeg" alt="banner" width="100%" />
+<img src="https://alltimelines.com/wp-content/uploads/2019/10/doom-banner.jpg" alt="banner" width="100%" />
 
 <pre>
 SYSTEM: BOOTING GIT PROTOCOL v666...
