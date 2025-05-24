@@ -1,14 +1,45 @@
+# > “The only thing they fear is YOU.”  
+![Kills](https://img.shields.io/badge/Demons%20Slain-666-red?style=for-the-badge&logo=hell)
+![Level](https://img.shields.io/badge/Slayer%20Level-17-black?style=for-the-badge)
+[![DOOM Soundtrack](https://img.shields.io/badge/Now%20Playing-BFG%20DIVISION-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=QHRuTYtSbJQ)
 
-# 🔥 Rip and tear, until it is done! 🔥  
-
+![Badge](https://img.shields.io/badge/Chainsaw-Loaded-red?style=flat-square&logo=doom)
+![Badge](https://img.shields.io/badge/Glory_Kills-∞-critical?style=flat-square)
+![Badge](https://img.shields.io/badge/Code_Mode-Slayer-darkred?style=flat-square)
 <img src="https://dixiegamereviews.files.wordpress.com/2016/05/image-6ed4cc65e8fbc1d1700d78a1b8ce80de.jpeg" alt="banner" width="100%" />
 
-# 🔥 Welcome to Hell, Developer! 🔥  
+<pre>
+SYSTEM: BOOTING GIT PROTOCOL v666...
+USER: dibilowas
+OBJECTIVE: RIP AND PUSH 🔥
+STATUS: READY TO COMMIT DEMONIC CODE
+WARNING: DEMONS DETECTED IN CODEBASE
+ACTION: EXECUTE GLORY_KILL()
+PROGRESS: SLAYING BUGS... 99% COMPLETE
+SYSTEM: ALL DEMONS TERMINATED, REPOSITORY CLEAN
+  
+</pre>
+
+<pre> 
+██████╗  ██████╗  ██████╗ ███╗   ███╗
+██╔══██╗██╔═══██╗██╔═══██╗████╗ ████║
+██║  ██║██║   ██║██║   ██║██╔████╔██║
+██║  ██║██║   ██║██║   ██║██║╚██╔╝██║
+██████╔╝╚██████╔╝╚██████╔╝██║ ╚═╝ ██║
+╚═════╝  ╚═════╝  ╚═════╝ ╚═╝     ╚═╝
+        R I P   A N D   T E A R  
+</pre>
+
+<pre> 💻 SYSTEM ONLINE: THE SLAYER HAS BEEN ACTIVATED. 🩸</pre>
+
+ 
 ## My name is **Vitor "Dibilowas"** — and you're entering my DOOM-themed GitHub.
 
 💀 _Rip and code until it's done._  
 🔫 Frontend Slayer & Backend Berserker.  
 🩸 Fueled by coffee, code, and demonic energy.
+<br>
+⚔️ Slaying demons one commit at a time.
 
 ---
 
@@ -50,18 +81,15 @@
 
 ## 🔥 Featured Projects from the Underworld
 
-- 🧟 [Hell Todo App](https://github.com/seuuser/todo-doom) — Lista de tarefas com temas do inferno 😈
-- 💣 [Doom Portfolio](https://github.com/seuuser/doomfolio) — Portfólio em modo noite com efeitos estilo DOOM.
+- 💣 [Solum - Marketplace Sustentável - Projeto de TCC][(https://solum.hubsapiens.com.br)]
 
 ---
 
 ## 📫 Contact the Slayer
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/seu-link)
-- 📧 Email: dibilowas666@doommail.com
-- 🧨 [Instagram Dev](https://www.instagram.com/seu-insta)
+- 📧 Email: dibilowass@gmail.com
+- 🧨 [Instagram Dev](https://www.instagram.com/dibilowass)
 
 ---
-
-<img src="https://media.giphy.com/media/l0HlRmzLAGZkTQZs4/giphy.gif" width="100%" />
 
