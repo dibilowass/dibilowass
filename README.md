@@ -32,8 +32,7 @@ SYSTEM: ALL DEMONS TERMINATED, REPOSITORY CLEAN
 ╚═════╝  ╚═════╝  ╚═════╝ ╚═╝     ╚═╝
         R I P   A N D   T E A R  
 
-
-  💻 SYSTEM ONLINE: THE SLAYER HAS BEEN ACTIVATED. 🩸
+💻 SYSTEM ONLINE: THE SLAYER HAS BEEN ACTIVATED. 🩸
 </pre>
 
  
