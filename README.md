@@ -23,11 +23,7 @@ ACTION: EXECUTE GLORY_KILL()
 PROGRESS: SLAYING BUGS... 99% COMPLETE
 SYSTEM: ALL DEMONS TERMINATED, REPOSITORY CLEAN
   
-</pre>
-
-
-
-<pre> 
+ 
 ██████╗  ██████╗  ██████╗ ███╗   ███╗
 ██╔══██╗██╔═══██╗██╔═══██╗████╗ ████║
 ██║  ██║██║   ██║██║   ██║██╔████╔██║
@@ -35,19 +31,19 @@ SYSTEM: ALL DEMONS TERMINATED, REPOSITORY CLEAN
 ██████╔╝╚██████╔╝╚██████╔╝██║ ╚═╝ ██║
 ╚═════╝  ╚═════╝  ╚═════╝ ╚═╝     ╚═╝
         R I P   A N D   T E A R  
-</pre>
 
-<pre> 💻 SYSTEM ONLINE: THE SLAYER HAS BEEN ACTIVATED. 🩸
+
+  💻 SYSTEM ONLINE: THE SLAYER HAS BEEN ACTIVATED. 🩸
 </pre>
 
  
 ## My name is **Vitor "Dibilowas"** — and you're entering my DOOM-themed GitHub.
 
 💀 _Rip and code until it's done._  
-🔫 Frontend Slayer & Backend Berserker.  
-🩸 Fueled by coffee, code, and demonic energy.
+🔫 _Frontend Slayer & Backend Berserker._
+🩸 _Fueled by coffee, code, and demonic energy._
 <br>
-⚔️ Slaying demons one commit at a time.
+⚔️ _Slaying demons one commit at a time._
 
 ---
 ## 🧰 Weapons of Choice (Tech Stack)
