@@ -8,6 +8,11 @@
 ![Badge](https://img.shields.io/badge/Code_Mode-Slayer-darkred?style=flat-square)
 <img src="https://alltimelines.com/wp-content/uploads/2019/10/doom-banner.jpg" alt="banner" width="100%" />
 
+
+
+
+
+
 <pre>
 SYSTEM: BOOTING GIT PROTOCOL v666...
 USER: dibilowas
@@ -20,6 +25,8 @@ SYSTEM: ALL DEMONS TERMINATED, REPOSITORY CLEAN
   
 </pre>
 
+
+
 <pre> 
 ██████╗  ██████╗  ██████╗ ███╗   ███╗
 ██╔══██╗██╔═══██╗██╔═══██╗████╗ ████║
@@ -30,7 +37,8 @@ SYSTEM: ALL DEMONS TERMINATED, REPOSITORY CLEAN
         R I P   A N D   T E A R  
 </pre>
 
-<pre> 💻 SYSTEM ONLINE: THE SLAYER HAS BEEN ACTIVATED. 🩸</pre>
+<pre> 💻 SYSTEM ONLINE: THE SLAYER HAS BEEN ACTIVATED. 🩸
+</pre>
 
  
 ## My name is **Vitor "Dibilowas"** — and you're entering my DOOM-themed GitHub.
@@ -42,13 +50,18 @@ SYSTEM: ALL DEMONS TERMINATED, REPOSITORY CLEAN
 ⚔️ Slaying demons one commit at a time.
 
 ---
-
 ## 🧰 Weapons of Choice (Tech Stack)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+<div style="display: flex; align-items: center;">
+  <div style="display: flex; flex-direction: column; gap: 8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  </div>
+  <img src="https://media.giphy.com/media/XZbAsygv5VTZ5oumfo/giphy.gif" alt="Doom Chainsaw" style="height: 200px; margin-left: 16px;" />
+</div>
 
 
 ---
