@@ -52,16 +52,21 @@ SYSTEM: ALL DEMONS TERMINATED, REPOSITORY CLEAN
 ---
 ## 🧰 Weapons of Choice (Tech Stack)
 
-<div style="display: flex; align-items: center;">
-  <div style="display: flex; flex-direction: column; gap: 8px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  </div>
-  <img src="https://media.giphy.com/media/XZbAsygv5VTZ5oumfo/giphy.gif" alt="Doom Chainsaw" style="height: 200px; margin-left: 16px;" />
-</div>
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" /><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://media.giphy.com/media/XZbAsygv5VTZ5oumfo/giphy.gif" alt="Doom Chainsaw" height="200" />
+    </td>
+  </tr>
+</table>
+
 
 
 ---
