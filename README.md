@@ -8,11 +8,6 @@
 ![Badge](https://img.shields.io/badge/Code_Mode-Slayer-darkred?style=flat-square)
 <img src="https://alltimelines.com/wp-content/uploads/2019/10/doom-banner.jpg" alt="banner" width="100%" />
 
-
-
-
-
-
 <pre>
 SYSTEM: BOOTING GIT PROTOCOL v666...
 USER: dibilowas
