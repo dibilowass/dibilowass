@@ -1,6 +1,6 @@
 # > “The only thing they fear is YOU.”  
 ![Kills](https://img.shields.io/badge/Demons%20Slain-666-red?style=for-the-badge&logo=hell)
-![Level](https://img.shields.io/badge/Slayer%20Level-17-black?style=for-the-badge)
+![Level](https://img.shields.io/badge/Slayer%20Level-99-black?style=for-the-badge)
 [![DOOM Soundtrack](https://img.shields.io/badge/Now%20Playing-BFG%20DIVISION-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=QHRuTYtSbJQ)
 
 ![Badge](https://img.shields.io/badge/Chainsaw-Loaded-red?style=flat-square&logo=doom)
