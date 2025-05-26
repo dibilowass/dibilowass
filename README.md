@@ -110,11 +110,10 @@ SYSTEM: ALL DEMONS TERMINATED, REPOSITORY CLEAN
 
 ---
 
-## 📫 Contact the Slayer
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-link)
-- 📧 Email: dibilowass@gmail.com
-- 🧨 [Instagram Dev](https://www.instagram.com/dibilowass)
+📡 SLAYER COMMS CHANNELS  
+> LinkedIn uplink: [IN/LinkedIn](https://linkedin.com/in/seu-link)  
+> Email frequency: dibilowass@gmail.com  
+> Visual surveillance: [@dibilowass](https://instagram.com/dibilowass)  
 
 ---
 
