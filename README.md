@@ -111,7 +111,7 @@ SYSTEM: ALL DEMONS TERMINATED, REPOSITORY CLEAN
  
 ---
   ### 🎯 Mission Log
-- [x] Clear the Hell Gate ([Solum - Marketplace Sustentável - Projeto de TCC][(https://solum.hubsapiens.com.br)])
+- [x] Clear the Hell Gate (https://solum.hubsapiens.com.br)
       <br>
       > CLASSIFICATION: Sustainable Marketplace  
       > LOCATION: Earth - Brazil, Sector TCC  
