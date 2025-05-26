@@ -62,9 +62,6 @@ SYSTEM: ALL DEMONS TERMINATED, REPOSITORY CLEAN
     </td>
   </tr>
 </table>
-
-
-
 ---
 
 ## 🎮 What I'm Listening While Slaying Bugs
@@ -97,16 +94,36 @@ SYSTEM: ALL DEMONS TERMINATED, REPOSITORY CLEAN
 </a>
 
 ---
+## 💀 SLAYER ACHIEVEMENTS
 
+<table>
+  <tr>
+    <td>
+
+- 🎖️ **First Blood:** First commit merged  
+- 🔥 **Glory Kill:** Fixed 100 bugs  
+- ⚔️ **Chainsaw Master:** Resolved 50 conflicts  
+- 💻 **Code Berserker:** 1000 lines of code written in a single session  
+- 🧠 **Lore Seeker:** Documented the codebase like a true archivist  
+- 🚀 **Deployment Slayer:** Production releases with no survivors  
+
+  </td>
+  <td>
+    <img src="https://media.tenor.com/4Ttd5DrLY_8AAAAM/doom-doomslayer-walking.gif" width="250" alt="Doom Slayer walking">
+  </td>
+  </tr>
+</table>
+ 
+---
   ### 🎯 Mission Log
 - [x] Clear the Hell Gate (`[Solum - Marketplace Sustentável - Projeto de TCC][(https://solum.hubsapiens.com.br)]`)
+      <br>
       > CLASSIFICATION: Sustainable Marketplace  
       > LOCATION: Earth - Brazil, Sector TCC  
       > OBJECTIVE: Eliminate user pain with eco solutions  
       > STATUS: Mission Complete ✅
 - [ ] Exorcise Bugs in API Hell
 - [ ] Deploy DOOM to Production 🔥
-
 
 ---
 
@@ -116,6 +133,14 @@ SYSTEM: ALL DEMONS TERMINATED, REPOSITORY CLEAN
 > Visual surveillance: [@dibilowass](https://instagram.com/dibilowass)  
 
 ---
+<p align="center">
+<!--   <img src="https://media.giphy.com/media/wTqzFgPIiM8B8wKfUz/giphy.gif"/> -->
+  <br />
+  <em>
+_"In code and carnage, I trust.  
+No bug shall live to defy the Slayer."_
+</em>
+</p>
 
 <details>
   <summary>👀 Secret Area Discovered</summary>
