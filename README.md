@@ -39,7 +39,8 @@ SYSTEM: ALL DEMONS TERMINATED, REPOSITORY CLEAN
 ## My name is **Vitor "Dibilowas"** — and you're entering my DOOM-themed GitHub.
 
 💀 _Rip and code until it's done._  
-🔫 _Frontend Slayer & Backend Berserker._
+🔫 _Frontend Slayer & Backend Berserker._ 
+<br>
 🩸 _Fueled by coffee, code, and demonic energy._
 <br>
 ⚔️ _Slaying demons one commit at a time._
