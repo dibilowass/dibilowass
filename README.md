@@ -112,15 +112,31 @@ SYSTEM: ALL DEMONS TERMINATED, REPOSITORY CLEAN
 ---
 ## 📜 SLAYER LORE
 
-> **Ano 2023:**  
-> O mundo mergulhava em bugs e deploys quebrados.  
-> Surge então **Dibilowas**, o Slayer do Código.  
-> Com um teclado nas mãos e o DOOM nos fones,  
-> ele reescreveu o destino da humanidade… em **JavaScript**.
+<table>
+  <tr>
+    <td>
+> Year 2023:
+      <br>
+> The world was plunged into bugs and broken deployments.  
+      <br>
+> Then came Dibilowas, the Code Slayer.  
+      <br>
+> With a keyboard in hand and DOOM in his headphones,  
+      <br>
+> he rewrote humanity's fate… in JavaScript.
+<br>
 
-> Nenhum bug sobreviveu. Nenhuma falha escapou.  
-> Apenas commits limpos, merges perfeitos, e o som eterno de `BFG Division` ecoando pelos logs
-> 
+> No bug survived. No flaw escaped.  
+> Only clean commits, perfect merges, and the eternal sound of `BFG Division` echoing through the logs.
+
+  </td>
+  <td>
+    <img src="https://i.redd.it/vq9zbgf1v4wd1.png" alt="Doom Dedo">
+  </td>
+  </tr>
+</table>
+
+
 ---
   ### 🎯 Mission Log
 - [x] Clear the Hell Gate (https://solum.hubsapiens.com.br)
