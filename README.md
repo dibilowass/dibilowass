@@ -145,6 +145,13 @@ SYSTEM: ALL DEMONS TERMINATED, REPOSITORY CLEAN
 
 ---
   ### 🎯 Mission Log
+<table>
+  <tr>
+    <td>
+<img src="https://media.tenor.com/BRdvedzXjy8AAAAM/doom-the-dark-ages-doom-dark-ages.gif">
+  </td>
+  <td>
+
 - [x] Clear the Hell Gate (https://solum.hubsapiens.com.br)
       <br>
       > CLASSIFICATION: Sustainable Marketplace  
@@ -153,6 +160,11 @@ SYSTEM: ALL DEMONS TERMINATED, REPOSITORY CLEAN
       > STATUS: Mission Complete ✅
 - [ ] Exorcise Bugs in API Hell
 - [ ] Deploy DOOM to Production 🔥
+    
+  </td>
+  </tr>
+</table>
+ 
 
 ---
 
