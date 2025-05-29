@@ -133,7 +133,7 @@ SYSTEM: ALL DEMONS TERMINATED, REPOSITORY CLEAN
 <br>
 
 > No bug survived. No flaw escaped.  
-> Only clean commits, perfect merges, and the eternal sound of `BFG Division` echoing through the logs.
+> Only clean commits, perfect merges, and the `eternal` sound of `BFG Division` echoing through the logs.
 
   </td>
   <td>
