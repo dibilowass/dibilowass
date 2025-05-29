@@ -33,12 +33,23 @@ SYSTEM: ALL DEMONS TERMINATED, REPOSITORY CLEAN
  
 ## My name is **Vitor "Dibilowas"** — and you're entering my DOOM-themed GitHub.
 
+<table>
+  <tr>
+    <td >
+     
 💀 _Rip and code until it's done._  
 🔫 _Frontend Slayer & Backend Berserker._ 
 <br>
 🩸 _Fueled by coffee, code, and demonic energy._
 <br>
 ⚔️ _Slaying demons one commit at a time._
+    </td>
+    <td>
+     
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315qvk5ddh5vgzu6rkt5q3ysddqi&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=ff0000)
+    </td>
+  </tr>
+</table>
 
 ---
 ## 🧰 Weapons of Choice (Tech Stack)
