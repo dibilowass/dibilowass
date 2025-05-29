@@ -68,11 +68,6 @@ SYSTEM: ALL DEMONS TERMINATED, REPOSITORY CLEAN
     </td>
   </tr>
 </table>
----
-
-## 🎮 What I'm Listening While Slaying Bugs
-
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=315qvk5ddh5vgzu6rkt5q3ysddqi&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=ff0000)
 
 ---
 <pre>
